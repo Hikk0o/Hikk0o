@@ -1,4 +1,7 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hikk0o&show_icons=true&theme=radical&title_color=adbac7&icon_color=79ff97&text_color=9f9f9f&bg_color=202329&border_color=343942) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikk0o&layout=compact&show_icons=true&title_color=adbac7&icon_color=79ff97&text_color=9f9f9f&bg_color=202329&border_color=343942)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Hikk0o/Hikk0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
