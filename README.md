@@ -7,7 +7,7 @@
 
 ### Useful links
 - <a href="https://java-design-patterns.com/principles/" >Programming Principles (Java)</a>
-
+- <a href="https://java-design-patterns.com/patterns/" >Design Pattern Catalog (Java)</a>
 
 <!--##
 ### My favorite language:
