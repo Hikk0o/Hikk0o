@@ -8,15 +8,15 @@
 - <a href="https://java-design-patterns.com/patterns/" >Design Pattern Catalog (Java)</a>
 
 ## Tech Stack
-![Java](https://img.shields.io/badge/-java-fa9a2d?&style=for-the-badge&logo=CoffeeScript&logoColor=white)<br/>
-![Python](https://img.shields.io/badge/-python-fcf630?&style=for-the-badge&logo=python&logoColor=black)<br/>
+![Java](https://img.shields.io/badge/-java-fa9a2d?&style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![Python](https://img.shields.io/badge/-python-fcf630?&style=for-the-badge&logo=python&logoColor=black)
 ![React](https://img.shields.io/badge/-react-28bcc7?&style=for-the-badge&logo=react&logoColor=white)
 
 
 ## My IDEs
 
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white)<br/>
-![WebStorm](https://img.shields.io/badge/-WebStorm-000000?&style=for-the-badge&logo=WebStorm&logoColor=white)<br/>
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?&style=for-the-badge&logo=WebStorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 
 ## My tools
