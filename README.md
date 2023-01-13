@@ -6,7 +6,7 @@
 ## Useful links
 - <a href="https://java-design-patterns.com/principles/" >Programming Principles (Java)</a>
 - <a href="https://java-design-patterns.com/patterns/" >Design Pattern Catalog (Java)</a>
-- <a href="https://java-design-patterns.com/patterns/" >Design Pattern Catalog (Cotlin)</a>
+- <a href="https://github.com/dbacinski/Design-Patterns-In-Kotlin" >Design Pattern Catalog (Cotlin)</a>
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/-java-fa9a2d?&style=for-the-badge&logo=CoffeeScript&logoColor=white)
