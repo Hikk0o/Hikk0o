@@ -10,6 +10,7 @@
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/-java-fa9a2d?&style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-kotlin-7400e8?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-fcf630?&style=for-the-badge&logo=python&logoColor=black)
 ![React](https://img.shields.io/badge/-react-28bcc7?&style=for-the-badge&logo=react&logoColor=white)
 
