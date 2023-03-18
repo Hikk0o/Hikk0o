@@ -24,4 +24,4 @@
 - [DBeaver](https://dbeaver.io/)
 
 
-![](https://komarev.com/ghpvc/?username=Hikk0o)
+![](https://komarev.com/ghpvc/?username=Hikk0o&style=for-the-badge)
